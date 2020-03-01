@@ -178,5 +178,5 @@ zsdoc/data
 /tests/_output/*
 !/tests/_output/.gitkeep
 
-# End of https://www.gitignore.io/api/git,zsh,python,visualstudiocode,archlinuxpackages
-
+# Env vars file
+.env
